@@ -1,57 +1,59 @@
-## 🚀 Welcome to My GitHub Repository!
+<h1 align="center">Hi, I'm VishnuVardhan S 👋</h1>
 
-![Business Analysis](https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif)
+<p align="center">
+  <img src="https://img.shields.io/badge/Business%20Analyst-Expert-blue?style=for-the-badge&logo=databricks&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-SQL-orange?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/EdTech%20Growth-Intern-green?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</p>
 
-### 👋 Hi, I'm Vishnuvardhan S !
+## 🚀 About Me
 
-I am a passionate **Business Analyst** with a keen interest in data-driven decision-making, process optimization, and business intelligence. My expertise lies in **Business Analytics, SQL, Data Visualization, and Requirements Engineering**. I aim to bridge the gap between business and technology by transforming complex data into meaningful insights.  
+I am a passionate **Business Analyst** with expertise in Data Analytics, Business Development, and Product Analysis. My focus lies in deriving actionable insights through **SQL, Excel, and BI Tools** to support data-driven decision-making. Currently working as a **Growth Intern at Edutantr**, I am also developing self-paced Business Analytics projects to build a strong professional portfolio.
+
+## 🎯 Skills & Technologies
+
+- 📊 **Data Analytics**: SQL, Excel, Google Sheets, Power BI, Tableau
+- 🔍 **Business Analysis**: BRD, FRD, SWOT Analysis, Wireframing, Process Flow Diagrams
+- 🏢 **Growth & Strategy**: Market Research, Competitive Analysis, KPI Monitoring
+- 📈 **E-commerce Analytics**: Multi-Vendor Marketplace, Customer Segmentation, Sales Analytics
+- 🛠 **Tools & Technologies**:
+  - SQL Workbench
+  - Power BI
+  - Tableau
+  - Google Analytics
+  - Python (Basic for Data Analysis)
+
+## 📜 Certifications
+
+- ✅ **Microsoft Business Analytics Professional Certification** - Microsoft and Coursera
+- ✅ **Agile Project Management** - Google and Coursera
+  
+## 🎓 Education
+
+- 🎓 **B.Tech Electronics and Communication Engineering**, SRM University, 2021 Sep - 2025 Jun
+- 🎓 **Additional Courses & Workshops in Data Analytics & Business Growth**
+
+## 🌟 Featured Projects
+
+| Project | Description |
+|---------|-------------|
+| **Flipkart Multi-Vendor Marketplace** | Developed a BRD, FRD, Wireframes, and SQL Queries for Marketplace Analytics. |
+| **+Colson - DBT Dashboard** | Created a web app to generate dashboards for psychological professionals. |
+| **EdTech Business Growth Analysis** | Conducted data-driven insights for Edutantr’s business development. |
+
+## 📫 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishnuvardhan-s-analyst/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/vishnuvardhan-analyst" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Projects-black?style=for-the-badge&logo=github" />
+  </a>
+  <a href="mailto:vishnuvardhan.analyst@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+  </a>
+</p>
 
 ---
-
-## 🏆 About Me
-
-- 🎯 **Current Role:** Growth Intern (Business Development) at Edutantr - EdTech Startup
-- 🎓 **Aspiring:** Business Analyst | Data Analyst | Product Analyst
-- 📊 **Key Skills:** Business Analysis, SQL, Data Visualization, Functional & Business Requirement Documentation (FRD & BRD)
-- 🛠️ **Tech Stack:** SQL | Python | Power BI | Tableau | Excel | Jira | Agile Methodology
-- 🔍 **Interests:** Business Intelligence, Marketplace Analytics, EdTech & E-commerce
-
----
-
-## 💼 Projects
-
-### 📌 **Flipkart Multi-Vendor Marketplace Analysis**
-🔹 **Scope:** Created BRD, FRD, Wireframes, and Data Flow Diagrams for a multi-vendor marketplace like Flipkart.  
-🔹 **Enhancement:** Developing SQL queries for marketplace analytics.  
-🔹 **Case Study:** [Watch the video (Coming Soon)](#)
-
-### 📌 **+Colson - DBT Analytics Dashboard**
-🔹 **Objective:** Web application that processes DBT (Dialectical Behavior Therapy) data to generate insightful dashboards.  
-🔹 **Design:** Applied **Glassmorphism UI** with an **Icy Green Theme**.  
-
-![Dashboard Example](https://media.giphy.com/media/26AHONQ79FdWZhAI0/giphy.gif)
-
-### 📌 **Business Analytics Portfolio**
-🔹 **Showcasing:** Self-paced projects on **Business Analytics** to strengthen my LinkedIn profile.  
-🔹 **Tools Used:** SQL Workbench, Power BI, Excel.  
-🔹 **Goal:** To land my dream job in **Business Analytics**!  
-
----
-
-## 🛠️ Skills & Tools
-
-![SQL](https://img.shields.io/badge/SQL-🛢️-blue) ![Power BI](https://img.shields.io/badge/Power%20BI-📊-yellow) ![Excel](https://img.shields.io/badge/Excel-📈-green) ![JIRA](https://img.shields.io/badge/JIRA-📋-blue) ![Tableau](https://img.shields.io/badge/Tableau-🔵-lightgrey)  
-
-- **📌 Business Analysis:** BRD | FRD | Wireframing | Process Mapping
-- **📊 Data Analytics:** SQL Queries | Data Visualization | KPI Analysis
-- **🔍 Requirements Engineering:** Agile | Jira | User Stories
-
----
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-🔗-blue)](https://www.linkedin.com/in/yourprofile/)  [![GitHub](https://img.shields.io/badge/GitHub-💻-black)](https://github.com/yourgithub/)  
-
-🚀 **Open to Opportunities** in **Business Analysis | Data Analytics | Product Analytics**
-
-![Thank You](https://media.giphy.com/media/xT9IgG50Fb7Mi0prBC/giphy.gif)
+⭐ **Thank you for visiting my profile! Let's connect and collaborate.** 🚀
