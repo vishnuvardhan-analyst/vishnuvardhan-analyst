@@ -35,7 +35,7 @@ I am a passionate **Business Analyst** with expertise in Data Analytics, Busines
 
 | Project | Description |
 |---------|-------------|
-| **Flipkart Multi-Vendor Marketplace** | Developed a BRD, FRD, Wireframes, and for Multivendor Marketplace. |
+| **Flipkart Multi-Vendor Marketplace** | Developed a BRD, FRD, Wireframes for Multivendor Marketplace. |
 
 ## 📫 Connect with Me
 
