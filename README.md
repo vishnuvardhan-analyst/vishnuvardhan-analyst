@@ -12,14 +12,13 @@ I am a passionate **Business Analyst** with expertise in Data Analytics, Busines
 
 ## 🎯 Skills & Technologies
 
-- 📊 **Data Analytics**: SQL, Excel, Google Sheets, Power BI, Tableau
+- 📊 **Data Analytics**: SQL, Excel, Google Sheets, Power BI
 - 🔍 **Business Analysis**: BRD, FRD, SWOT Analysis, Wireframing, Process Flow Diagrams
 - 🏢 **Growth & Strategy**: Market Research, Competitive Analysis, KPI Monitoring
 - 📈 **E-commerce Analytics**: Multi-Vendor Marketplace, Customer Segmentation, Sales Analytics
 - 🛠 **Tools & Technologies**:
   - SQL Workbench
   - Power BI
-  - Tableau
   - Google Analytics
   - Python (Basic for Data Analysis)
 
@@ -31,15 +30,12 @@ I am a passionate **Business Analyst** with expertise in Data Analytics, Busines
 ## 🎓 Education
 
 - 🎓 **B.Tech Electronics and Communication Engineering**, SRM University, 2021 Sep - 2025 Jun
-- 🎓 **Additional Courses & Workshops in Data Analytics & Business Growth**
 
 ## 🌟 Featured Projects
 
 | Project | Description |
 |---------|-------------|
-| **Flipkart Multi-Vendor Marketplace** | Developed a BRD, FRD, Wireframes, and SQL Queries for Marketplace Analytics. |
-| **+Colson - DBT Dashboard** | Created a web app to generate dashboards for psychological professionals. |
-| **EdTech Business Growth Analysis** | Conducted data-driven insights for Edutantr’s business development. |
+| **Flipkart Multi-Vendor Marketplace** | Developed a BRD, FRD, Wireframes, and for Multivendor Marketplace. |
 
 ## 📫 Connect with Me
 
